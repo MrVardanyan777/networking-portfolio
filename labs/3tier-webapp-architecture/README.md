@@ -6,7 +6,8 @@ This lab demonstrates an enterprise-grade three-tier web application network arc
 ## Topology
 ![Network Topology](network-topology.png)
 
-## Download the project
+## 🗂️ Lab Files
+- [`3tier-webapp-architecture.pkt`](./3tier-webapp-architecture.pkt) - Download and open in Packet Tracer
 
 ## Technologies Used
 - VLAN Segmentation
