@@ -26,9 +26,10 @@
 
 | Lab | Skills | Difficulty | Status |
 |-----|--------|------------|--------|
-| [Enterprise Network Design](./labs/enterprise-network/) | OSPF, VLANs, STP | Intermediate | 📝 *Planning* |
-| [VPN Implementation](./labs/vpn-configuration/) | IPsec VPN, Cryptography | Intermediate | 📝 *Planning* |
-| [Network Security](./labs/network-security/) | ACLs, Firewall, Port Security | Beginner-Intermediate | 📝 *Planning* |
+| [Multi-VLAN Small Office Network](./labs/multi-vlan-office-network/) | VLANs, STP | Intermediate | ✅ Done |
+| [Enterprise Office Network](./labs/enterprise-office-network/) | DHCP,OSPF,ACL,NAT | Intermediate | ✅ Done |
+| [Enterprise Network Lab - HQ with Branch Site](./labs/enterprise-hq-branch-network/) | ACLs, Firewall, Port Security, HSRP, WAN | Intermediate - Pro | ✅ Done |
+| [3-Tier Web Application Network Architecture](./labs/3tier-webapp-architecture/) | VLAN, ACLs, Servers, Security, DHCP | Intermediate - Pro | ✅ Done |
 | *More labs coming soon!* | | | |
 
 ## 🛠️ Tools Used
